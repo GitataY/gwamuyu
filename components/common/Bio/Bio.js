@@ -3,7 +3,7 @@ import clsx from "clsx";
 import Image from "next/image";
 
 import { getSiteMetaData } from "@utils/helpers";
-import profilePicture from "@/content/assets/profile.jpg";
+import profilePicture from "@/content/assets/profile.jpeg";
 
 export function Bio({ className }) {
   const { author, social } = getSiteMetaData();
