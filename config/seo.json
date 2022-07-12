@@ -1,0 +1,16 @@
+{
+  "siteMetadata": {
+    "title": "Ywamuyu || Something smart",
+    "author": {
+      "name": "Y Wamuyu",
+      "summary": "Something really really smart.",
+      "link": "https://ywamuyu.com"
+    },
+    "description": "Something really really smart.",
+    "siteUrl": "https://ywamuyu.com",
+    "language": "en-US",
+    "social": {
+      "twitter": "wamuy_u"
+    }
+  }
+}

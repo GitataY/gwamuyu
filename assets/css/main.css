@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import "./base.css";
+
+  a {
+    @apply text-subtle-red dark:text-subtle-red;
+  }
+}
+
+@layer components {
+  @import "./components.css";
+}
