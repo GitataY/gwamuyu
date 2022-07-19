@@ -4,11 +4,21 @@
         <title>Ywamuyu || My Calming Chaos</title>
         <link>https://ywamuyu.com</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 19:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 19:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en-US</language>
         <copyright>Copyright © 2022 Y Wamuyu</copyright>
+        <item>
+            <title><![CDATA[Heeey Yvonne]]></title>
+            <link>https://ywamuyu.composts/Heeey-Wammzz</link>
+            <guid>Heeey-Wammzz</guid>
+            <pubDate>Tue, 19 Jul 2022 21:00:00 GMT</pubDate>
+            <description><![CDATA[A letter to 19 year old me.]]></description>
+            <content:encoded><![CDATA[## A letter to 19 year old me.
+jz km kn nzk nz nz zjbh hvv 
+<strong> HJDSSISISN </strong>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Something smart]]></title>
             <link>https://ywamuyu.composts/Intro</link>
