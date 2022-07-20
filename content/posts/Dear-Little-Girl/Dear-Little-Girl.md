@@ -1,6 +1,6 @@
 ---
-title: Something smart
-description: Talking about something really smart.
+title: Dear Little Girl
+description: You are not too much.
 date: 2022-07-20T11:00:00.000Z
 ---
 ### Dear Little girl 
