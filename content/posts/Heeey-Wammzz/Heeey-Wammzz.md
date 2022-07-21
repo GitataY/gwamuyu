@@ -5,7 +5,7 @@ date: 2022-07-21T22:45:00.000Z
 ---
 Some days I open my mouth and my mother comes out. Each word is 
 a riot. I find myself slipping into her anger with so much ease it shocks me
-sometimes. The world is burning and everyone is waiting foe her to put out her flames with her tears because her pain is used to heal everyone else. 
+sometimes. The world is burning and everyone is waiting for her to put out her flames with her tears because her pain is used to heal everyone else. 
 
 
 I have inherited the rage that comes with being a safe haven for visitors 
@@ -13,7 +13,7 @@ who leave without cleaning up their mess. My mother didn't invent pain but
 my God, does she wear it well. My mother doesnt flinch as she pulls out the knives in her back and rinses off the blood to forget there was ever a time she was vulnerable to the wrong people. 
 
 
-My other gives me heirlooms like backbone and strength, and hand-me-down trauma, because I come from a long line of women who bleed on command, and 
+My mother gives me heirlooms like backbone and strength, and hand-me-down trauma, because I come from a long line of women who bleed on command, and 
 cry only when everyone else is asleep. 
 
 
