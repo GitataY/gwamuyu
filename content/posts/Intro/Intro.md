@@ -45,7 +45,10 @@ Anywayzz if you must know something about me
     - I hate noise. It gives me terrible migraines 
 
 
-    - Oh God, I have terrivle insomnia
+    - Oh God, I have terrible insomnia
+
+
+    - I rewatch movies over and over again because I love familiarity and can't handle the anxiety of not knowing most times.
 
 
     - I am sorta kinda too emotional  
