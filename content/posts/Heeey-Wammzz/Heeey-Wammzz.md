@@ -1,6 +1,6 @@
 ---
 title: Like mother, like daughter
-description: 
+description: I am my mother's daughter. 
 date: 2022-07-21T22:45:00.000Z
 ---
 Some days I open my mouth and my mother comes out. Each word is 
