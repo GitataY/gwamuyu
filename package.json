@@ -9,23 +9,24 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "@svgr/webpack": "^6.1.1",
     "clsx": "^1.1.1",
     "feed": "^4.2.2",
-    "next": "12.0.7",
+    "next": "^12.0.7",
     "next-compose-plugins": "^2.2.1",
     "next-themes": "^0.0.15",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-markdown": "^5.0.3",
     "react-syntax-highlighter": "^15.4.5",
     "react-toggle-dark-mode": "^1.0.4",
     "typeface-merriweather": "^1.1.13",
     "typeface-open-sans": "^1.1.13",
-    "webp-loader": "^0.6.0"
+    "webp-loader": "^0.4.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.4.1",
